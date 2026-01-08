@@ -15,6 +15,6 @@ Practice real-world SQL queries
 
 
 Dataset Description
-he dataset contains hospital records including patient details,
+dataset contains hospital records including patient details,
 hospital name, department, city, medical expenses,
 admission date, discharge date, and length of stay.
